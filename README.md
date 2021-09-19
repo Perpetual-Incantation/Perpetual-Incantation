@@ -2,7 +2,7 @@
 <h3 align="center">A Girl trying to explore open source contribution</h3>
 
 
-<img src="https://imgur.com/SmyGCZm.png" alt="Paris"  class="center">
+<img src="https://imgur.com/SmyGCZm.png" alt="coding" width="700"  class="center">
 - 📫 How to reach me **snehajain93106@gmail.com**
 
 - ⚡ Fun fact **I love reading novels😜**
