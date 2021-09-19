@@ -3,7 +3,7 @@
 
 
 <img src="https://imgur.com/SmyGCZm.png" alt="coding" width="700"  class="center">
-- 📫 How to reach me **snehajain93106@gmail.com**
+- 📫 How to reach me <h2>snehajain93106@gmail.com</h2>
 
 - ⚡ Fun fact **I love reading novels😜**
 
