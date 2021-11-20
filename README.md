@@ -4,9 +4,6 @@
 
 <img src="https://imgur.com/SmyGCZm.png" alt="coding" width="400"  class="center">
 - 📫 How to reach me <h2>snehajain93106@gmail.com</h2>
-
-- ⚡ Fun fact **I love reading novels😜**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
