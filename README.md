@@ -2,7 +2,7 @@
 <h3 align="center">A Girl trying to explore open source contribution and currently a Front end developer.</h3>
 
 
-<img src="https://imgur.com/SmyGCZm.png" alt="coding" width="700"  class="center">
+<img src="https://imgur.com/SmyGCZm.png" alt="coding" width="400"  class="center">
 - 📫 How to reach me <h2>snehajain93106@gmail.com</h2>
 
 - ⚡ Fun fact **I love reading novels😜**
